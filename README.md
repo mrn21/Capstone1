@@ -1,4 +1,6 @@
 # Capstone1
+Final Report name - 'Right Place Right Time.pdf'
+Final Report slide deck -- 'Right Place Right Time.pptx'
 Initial Project Ideas  -- Capstone1ProjectOptions.docx
 Project Proposal  -- Capstone Project 1 Project Proposal.docx
 Data Wrangling-- Capstone1/PassNYC SHSAT Student Recommendation and School Identification -Data Wrangling.ipynb
