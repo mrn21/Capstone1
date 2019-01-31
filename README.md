@@ -1,5 +1,5 @@
 # Capstone1
-Final Report name - 'Right Place Right Time.pdf'
+Final Report name - 'Capstone 1 PASSNYC Project Report.pdf'
 
 Final Report slide deck -- 'Right Place Right Time.pptx'
 
